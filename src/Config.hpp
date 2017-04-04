@@ -5,9 +5,6 @@
 #include <map> // std::map
 #include <string> // std::string
 #include <fstream> // to read files on disk
-#include <stdexcept> // std::exception
-/* boost includes (/usr/local/include/) */
-/* boost library links (/usr/local/lib/) -lboost_system */
 #include <boost/config.hpp>
 // boost library link for boost program options (/usr/local/lib/) -lboost_program_options
 #include <boost/program_options/detail/config_file.hpp>
